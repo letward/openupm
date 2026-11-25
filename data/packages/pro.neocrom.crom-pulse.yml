@@ -1,6 +1,6 @@
 name: pro.neocrom.crom-pulse
 aliases: []
-displayName: Crom Pulse
+displayName: Neocrom Pulse
 description: >-
   Lightweight, modular, privacy-first game analytics and telemetry SDK for
   Unity, part of the Neocrom ecosystem (neocrom.pro).
