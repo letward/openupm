@@ -10,7 +10,7 @@ parentRepoUrl: null
 licenseSpdxId: MIT
 licenseName: MIT License
 image: >-
-  https://raw.githubusercontent.com/neocrom-team/neocrom-pulse/b4161576296f1899ee307baa5f0f605535d08d88/addons/crom_pulse/icon.png
+  https://raw.githubusercontent.com/neocrom-team/neocrom-pulse/c410961b5ea1ef03fac1c80b295cae45f113477b/addons/neocrom_pulse/icon.png
 topics:
   - debugging-and-logging
   - integration
